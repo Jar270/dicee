@@ -32,10 +32,17 @@ img {
   width: 80%;
 }
 
-footer {
-  margin-top: 5%;
-  color: #EEEEEE;
+.reroll {
   text-align: center;
-  font-family: 'Indie Flower', cursive;
+  margin-top: 5%;
+}
 
+button {
+  width: 10%;
+  height: 30px;
+  background-color: #4ECCA3;
+}
+
+button:active {
+  background-color: #218d69;
 }
